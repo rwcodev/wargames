@@ -6,4 +6,5 @@ also is equiped with other tools like the GPS TRIPODE to track the users on the 
 ![ensamble_tripode_gps_v1](https://github.com/user-attachments/assets/7714290d-7d0e-41a8-b078-7496893209b0)
 
 and the controller for orbital munition that allows to the user control over this weapon.
-![saler_pointer_03](https://github.com/user-attachments/assets/b0b38743-b261-4ed1-aa65-8ea70625e177)
+![saler_pointer_10](https://github.com/user-attachments/assets/61a28603-064c-4298-b709-d744e9a18b7e)
+
