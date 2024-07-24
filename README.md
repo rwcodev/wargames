@@ -1,4 +1,7 @@
 # wargames
+The website could look like this
+![website_mockup_v1_23_07_2024](https://github.com/user-attachments/assets/70b6ca1f-1817-4778-aeeb-f27a89209fab)
+
 A game with augmented reality and hardware that offers a realistic battle experience, equiped with sensors and haptics like the weapon recoil and the sound
 ![render_vr_shotgun_06](https://github.com/user-attachments/assets/6029d503-6129-4c34-a807-2bbd1dab1f88)
 
